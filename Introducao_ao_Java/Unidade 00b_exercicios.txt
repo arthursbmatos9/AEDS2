@@ -1,0 +1,9 @@
+Unidade 00b_exercicios
+
+4- O código recebe um caractere e o transforma para um valor referente ao seu valor na tabela ASCII. Caso seja alguma vogal ele retorna true, caso seja consoante, retorna false.
+
+18- O primeiro retorna o valor i antes de decrementar, já o segunda retorna o valor i decrementado em 1.
+
+19- Os numeros serão incrementados enquanto couberem no byte, short, int e long. Quando atingirem o valor máximo (exemplo: 128 no byte) eles se reiniciarão e comecarão a ser incrementados novamente.
+
+20- Imprime [46 - 11] porque a expressão x = x<<1 desloca os bytes para a esquerda, ou seja, multiplica o valor de x por 2. Já o y = y>>1 desloca para a direita, o mesmo que dividir o valor de y por 2.
